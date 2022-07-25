@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Coinbunker'
+theme = 'hugo_theme_pickles'
+[params]
+paginate = 10
