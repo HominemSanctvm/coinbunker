@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Coinbunker</title>
+	<link>https://coinbunker.com.br/tags/programa%C3%A7%C3%A3o/</link>
+	<description>Recent content in programação on Coinbunker</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Wed, 27 Jul 2022 22:15:00 -0300</lastBuildDate>
+    
+        <atom:link href="https://coinbunker.com.br/tags/programa%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Lógica de Programação e Algoritmos com JavaScript</title>
+		<link>https://coinbunker.com.br/books/book2/</link>
+		<pubDate>Wed, 27 Jul 2022 22:15:00 -0300</pubDate>
+		
+		<guid>https://coinbunker.com.br/books/book2/</guid>
+		<description>&lt;p&gt;Os conteúdos abordados em Lógica de Programação e Algoritmos são fundamentais a todos aqueles que desejam ingressar no universo da Programação de Computadores. Esses conteúdos, no geral, impõem algumas dificuldades aos iniciantes. Neste livro, o autor utiliza sua experiência de mais de 15 anos em lecionar a disciplina de Algoritmos em cursos de graduação, para trabalhar o assunto passo a passo. Cada capítulo foi cuidadosamente planejado a fim de evitar a sobrecarga de informações ao leitor, com exemplos e exercícios de fixação para cada assunto&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>

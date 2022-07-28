@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Coinbunker</title>
+	<link>https://coinbunker.com.br/</link>
+	<description>Recent content on Coinbunker</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Wed, 27 Jul 2022 20:04:58 -0300</lastBuildDate>
+    
+        <atom:link href="https://coinbunker.com.br/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Books</title>
+		<link>https://coinbunker.com.br/books/</link>
+		<pubDate>Wed, 27 Jul 2022 23:20:33 -0300</pubDate>
+		
+		<guid>https://coinbunker.com.br/books/</guid>
+		<description></description>
+	</item>
+	
+	</channel>
+</rss>

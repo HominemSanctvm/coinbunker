@@ -1,0 +1,54 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Coinbunker</title>
+	<link>https://coinbunker.com.br/tags/livros/</link>
+	<description>Recent content in livros on Coinbunker</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Wed, 27 Jul 2022 23:20:33 -0300</lastBuildDate>
+    
+        <atom:link href="https://coinbunker.com.br/tags/livros/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Revolt Against the Modern World</title>
+		<link>https://coinbunker.com.br/books/book5/</link>
+		<pubDate>Wed, 27 Jul 2022 23:20:33 -0300</pubDate>
+		
+		<guid>https://coinbunker.com.br/books/book5/</guid>
+		<description>&lt;p&gt;With unflinching gaze and uncompromising intensity Julius Evola analyzes the spiritual and cultural malaise at the heart of Western civilization and all that passes for progress in the modern world. As a gadfly, Evola spares no one and nothing in his survey of what we have lost and where we are headed. At turns prophetic and provocative, Revolt against the Modern World outlines a profound metaphysics of history and demonstrates how and why we have lost contact with the transcendent dimension of being.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Aprendendo Node: Usando JavaScript no Servidor</title>
+		<link>https://coinbunker.com.br/books/book4/</link>
+		<pubDate>Wed, 27 Jul 2022 23:16:37 -0300</pubDate>
+		
+		<guid>https://coinbunker.com.br/books/book4/</guid>
+		<description>&lt;p&gt;Reúna o conhecimento de programação que você já usa no navegador e empregue no servidor com o Node! Aprenda a criar aplicações em rede de alto desempenho e plenamente escalonáveis nesta plataforma baseada em JavaScript. O conteúdo deste livro é bastante prático, “mão na massa”, e fará com que o programador de JavaScript, acostumado a lidar apenas com processamento no navegador, domine com maestria os fundamentos do Node no servidor. Serão abordados inúmeros módulos nativos e também de terceiros.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>C Como Programar</title>
+		<link>https://coinbunker.com.br/books/book3/</link>
+		<pubDate>Wed, 27 Jul 2022 23:16:35 -0300</pubDate>
+		
+		<guid>https://coinbunker.com.br/books/book3/</guid>
+		<description>&lt;p&gt;Desde a década de 1990, mais de um milhão de alunos e pro ssionais aprenderam programação e desenvolvimento de software com os livros da série “Como programar”, de Deitel®. C: como programar, 6a edição, apresenta três paradigmas atuais de programação: procedural em C, orientada a objeto e genérica em C++. O livro é apropriado para cursos de programação em C e C++ de níveis introdutório e intermediário.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Lógica de Programação e Algoritmos com JavaScript</title>
+		<link>https://coinbunker.com.br/books/book2/</link>
+		<pubDate>Wed, 27 Jul 2022 22:15:00 -0300</pubDate>
+		
+		<guid>https://coinbunker.com.br/books/book2/</guid>
+		<description>&lt;p&gt;Os conteúdos abordados em Lógica de Programação e Algoritmos são fundamentais a todos aqueles que desejam ingressar no universo da Programação de Computadores. Esses conteúdos, no geral, impõem algumas dificuldades aos iniciantes. Neste livro, o autor utiliza sua experiência de mais de 15 anos em lecionar a disciplina de Algoritmos em cursos de graduação, para trabalhar o assunto passo a passo. Cada capítulo foi cuidadosamente planejado a fim de evitar a sobrecarga de informações ao leitor, com exemplos e exercícios de fixação para cada assunto&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
