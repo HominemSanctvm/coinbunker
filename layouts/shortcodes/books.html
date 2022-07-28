@@ -1,0 +1,9 @@
+{{range.Site.RegularPages.ByDate}}{{ if in .Params.tags "livros" }}
+<div class="book-div">
+	<a class="affiliatedLink" href="{{ .Param "link" }}" target="_blank">
+		<img class="affiliatedLinkImg" src="{{ .Param "image" }}" />
+		<h2>{{ .Title }}</h2>
+	</a>
+	<p>{{ .Summary }}</p>
+</div>
+		{{ end }}{{end}}

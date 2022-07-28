@@ -1,6 +1,9 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://coinbunker.com.br'
 languageCode = 'en-us'
 title = 'Coinbunker'
-theme = 'hugo_theme_pickles'
+theme = 'lugo'
 [params]
 paginate = 10
+[markup]
+	    [markup.goldmark.renderer]
+				unsafe = true

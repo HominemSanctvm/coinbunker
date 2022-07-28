@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+
+:root {
+	--page-background: #262626;
+	--page-text-color: #dfdfdf;
+	--affLink: #B0E0E6;
+}
+
+body {
+	font-family: 'Noto Sans', sans-serif ;
+	background: var(--page-background) ;
+	color: var(--page-text-color) ;
+	line-height: 1.5;
+}
+
+main {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+p {
+	text-indent: 1.2rem;
+}
+
+img {
+	max-width: 100% ;
+}
+
+header h1 {
+	text-align: center ;
+}
+
+footer {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For TAGLIST.HTML */
+.taglist {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For NEXTPREV.HTML */
+#nextprev {
+	/* The container for both the previous and next articles. */
+}
+#prevart {
+	float: left ;
+	text-align: left ;
+}
+#nextart {
+	float: right ;
+	text-align: right ;
+}
+#nextart,#prevart {
+	max-width: 33% ;
+}
+
+#profilePic {
+	max-width: 128px;
+	border-radius: 100px;
+	margin: auto;
+	display: block;
+}
+
+.book-div {
+	display: flex;
+	flex-direction: column;
+}
+
+.book-section {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	grid-gap: 30px;
+}
+
+.affiliatedLink {
+	text-align: center;
+  text-decoration: none;
+	color: var(--affLink);
+	cursor: pointer;
+}
+
+.affiliatedLinkImg {
+	max-width: 240px;
+}
