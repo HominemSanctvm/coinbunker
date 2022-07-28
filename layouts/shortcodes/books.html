@@ -2,8 +2,8 @@
 <div class="book-div">
 	<a class="affiliatedLink" href="{{ .Param "link" }}" target="_blank">
 		<img class="affiliatedLinkImg" src="{{ .Param "image" }}" />
-		<h2>{{ .Title }}</h2>
+		<!-- <h2>{{ .Title }}</h2> -->
 	</a>
-	<p>{{ .Summary }}</p>
+	{{ .Content }}
 </div>
 		{{ end }}{{end}}
