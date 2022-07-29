@@ -7,7 +7,6 @@
 	<link rel='stylesheet' type='text/css' href='/style.css'>
 	{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">
 	{{ end -}}
-	<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
 	{{ if isset .Params "tags" }}<meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">
 	{{ end -}}
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,6 +15,9 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
+	<script>
+		console.log('Site created by Gabriel de Lucca, (https://github.com/HominemSanctvm)');
+	</script>
 {{- if .Site.Menus.main }}
 {{ partial "nav.html" . }}
 {{ end }}

@@ -5,69 +5,38 @@
 	<description>Recent content in Books on Coinbunker</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Thu, 28 Jul 2022 21:01:01 -0300</lastBuildDate>
+	<lastBuildDate>Fri, 29 Jul 2022 15:33:54 -0300</lastBuildDate>
     
         <atom:link href="https://coinbunker.com.br/books/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
-		<title>Book7</title>
-		<link>https://coinbunker.com.br/books/book7/</link>
-		<pubDate>Thu, 28 Jul 2022 21:01:01 -0300</pubDate>
+		<title>Curaitu Finibus</title>
+		<link>https://coinbunker.com.br/books/curabiturfinibus/</link>
+		<pubDate>Fri, 29 Jul 2022 15:33:54 -0300</pubDate>
 		
-		<guid>https://coinbunker.com.br/books/book7/</guid>
-		<description>&lt;p&gt;Um guia ilustrado para programadores e outros curiosos.
-Um algoritmo nada mais é do que um procedimento passo a passo para a resolução de um problema. Os algoritmos que você mais utilizará como um programador já foram descobertos, testados e provados. Se você quer entendê-los, mas se recusa a estudar páginas e mais páginas de provas, este é o livro certo. Este guia cativante e completamente ilustrado torna simples aprender como utilizar os principais algoritmos nos seus programas.&lt;/p&gt;
+		<guid>https://coinbunker.com.br/books/curabiturfinibus/</guid>
+		<description>&lt;p&gt;Curabitur finibus, eros eget auctor feugiat, dolor tortor interdum turpis, quis venenatis tellus arcu ut magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed et maximus nibh. Fusce scelerisque lorem quis volutpat euismod. Sed ligula urna, congue et dignissim vitae, dictum id risus. Pellentesque feugiat dui eget mauris cursus, id convallis magna aliquam. Suspendisse ut neque ut diam aliquet scelerisque eget in enim. Morbi at aliquet purus. Nam eget tellus dui. Donec vitae lacus sed lacus vehicula egestas id in mi. Suspendisse potenti. Sed eu pharetra leo, et malesuada nibh. Proin eu tincidunt neque. Nulla suscipit, odio sit amet sagittis molestie, mauris felis ornare orci, eget dictum purus urna vel velit. Maecenas hendrerit neque quis lorem sodales, et varius nisi convallis. Duis dignissim ex vitae nisi pellentesque lobortis.&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
-		<title>Book6</title>
-		<link>https://coinbunker.com.br/books/book6/</link>
-		<pubDate>Thu, 28 Jul 2022 21:00:59 -0300</pubDate>
+		<title>Lorem Ipsum</title>
+		<link>https://coinbunker.com.br/books/loremipsum/</link>
+		<pubDate>Fri, 29 Jul 2022 15:33:54 -0300</pubDate>
 		
-		<guid>https://coinbunker.com.br/books/book6/</guid>
-		<description>&lt;p&gt;As regras universais de arquitetura de software aumentam dramaticamente a produtividade dos desenvolvedores ao longo da vida dos sistemas de software. Agora, aproveitando o sucesso dos seus best-sellers &amp;ldquo;Código Limpo&amp;rdquo; e &amp;ldquo;O Codificador Limpo&amp;rdquo;, o lendário artesão de software Robert C. Martin (“Uncle Bob”) vai revelar essas regras e ajudar o leitor a aplicá-las.A &amp;ldquo;Arquitetura Limpa&amp;rdquo; de Martin não é só mais um catálogo de opções.&lt;/p&gt;
+		<guid>https://coinbunker.com.br/books/loremipsum/</guid>
+		<description>&lt;p&gt;Curabitur finibus, eros eget auctor feugiat, dolor tortor interdum turpis, quis venenatis tellus arcu ut magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed et maximus nibh. Fusce scelerisque lorem quis volutpat euismod. Sed ligula urna, congue et dignissim vitae, dictum id risus. Pellentesque feugiat dui eget mauris cursus, id convallis magna aliquam. Suspendisse ut neque ut diam aliquet scelerisque eget in enim. Morbi at aliquet purus. Nam eget tellus dui. Donec vitae lacus sed lacus vehicula egestas id in mi. Suspendisse potenti. Sed eu pharetra leo, et malesuada nibh. Proin eu tincidunt neque. Nulla suscipit, odio sit amet sagittis molestie, mauris felis ornare orci, eget dictum purus urna vel velit. Maecenas hendrerit neque quis lorem sodales, et varius nisi convallis. Duis dignissim ex vitae nisi pellentesque lobortis.&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
-		<title>Revolt Against the Modern World</title>
-		<link>https://coinbunker.com.br/books/book5/</link>
-		<pubDate>Wed, 27 Jul 2022 23:20:33 -0300</pubDate>
+		<title>Nunc Mauris Ex</title>
+		<link>https://coinbunker.com.br/books/nuncmaurisex/</link>
+		<pubDate>Fri, 29 Jul 2022 15:33:54 -0300</pubDate>
 		
-		<guid>https://coinbunker.com.br/books/book5/</guid>
-		<description>&lt;p&gt;With unflinching gaze and uncompromising intensity Julius Evola analyzes the spiritual and cultural malaise at the heart of Western civilization and all that passes for progress in the modern world. As a gadfly, Evola spares no one and nothing in his survey of what we have lost and where we are headed. At turns prophetic and provocative, Revolt against the Modern World outlines a profound metaphysics of history and demonstrates how and why we have lost contact with the transcendent dimension of being.&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>Aprendendo Node: Usando JavaScript no Servidor</title>
-		<link>https://coinbunker.com.br/books/book4/</link>
-		<pubDate>Wed, 27 Jul 2022 23:16:37 -0300</pubDate>
-		
-		<guid>https://coinbunker.com.br/books/book4/</guid>
-		<description>&lt;p&gt;Reúna o conhecimento de programação que você já usa no navegador e empregue no servidor com o Node! Aprenda a criar aplicações em rede de alto desempenho e plenamente escalonáveis nesta plataforma baseada em JavaScript. O conteúdo deste livro é bastante prático, “mão na massa”, e fará com que o programador de JavaScript, acostumado a lidar apenas com processamento no navegador, domine com maestria os fundamentos do Node no servidor. Serão abordados inúmeros módulos nativos e também de terceiros.&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>C Como Programar</title>
-		<link>https://coinbunker.com.br/books/book3/</link>
-		<pubDate>Wed, 27 Jul 2022 23:16:35 -0300</pubDate>
-		
-		<guid>https://coinbunker.com.br/books/book3/</guid>
-		<description>&lt;p&gt;Desde a década de 1990, mais de um milhão de alunos e prossionais aprenderam programação e desenvolvimento de software com os livros da série “Como programar”, de Deitel®. C: como programar, 6a edição, apresenta três paradigmas atuais de programação: procedural em C, orientada a objeto e genérica em C++. O livro é apropriado para cursos de programação em C e C++ de níveis introdutório e intermediário.&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>Lógica de Programação e Algoritmos com JavaScript</title>
-		<link>https://coinbunker.com.br/books/book2/</link>
-		<pubDate>Wed, 27 Jul 2022 22:15:00 -0300</pubDate>
-		
-		<guid>https://coinbunker.com.br/books/book2/</guid>
-		<description>&lt;p&gt;Os conteúdos abordados em Lógica de Programação e Algoritmos são fundamentais a todos aqueles que desejam ingressar no universo da Programação de Computadores. Esses conteúdos, no geral, impõem algumas dificuldades aos iniciantes. Neste livro, o autor utiliza sua experiência de mais de 15 anos em lecionar a disciplina de Algoritmos em cursos de graduação, para trabalhar o assunto passo a passo. Cada capítulo foi cuidadosamente planejado a fim de evitar a sobrecarga de informações ao leitor, com exemplos e exercícios de fixação para cada assunto&lt;/p&gt;
+		<guid>https://coinbunker.com.br/books/nuncmaurisex/</guid>
+		<description>&lt;p&gt;Curabitur finibus, eros eget auctor feugiat, dolor tortor interdum turpis, quis venenatis tellus arcu ut magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed et maximus nibh. Fusce scelerisque lorem quis volutpat euismod. Sed ligula urna, congue et dignissim vitae, dictum id risus. Pellentesque feugiat dui eget mauris cursus, id convallis magna aliquam. Suspendisse ut neque ut diam aliquet scelerisque eget in enim. Morbi at aliquet purus. Nam eget tellus dui. Donec vitae lacus sed lacus vehicula egestas id in mi. Suspendisse potenti. Sed eu pharetra leo, et malesuada nibh. Proin eu tincidunt neque. Nulla suscipit, odio sit amet sagittis molestie, mauris felis ornare orci, eget dictum purus urna vel velit. Maecenas hendrerit neque quis lorem sodales, et varius nisi convallis. Duis dignissim ex vitae nisi pellentesque lobortis.&lt;/p&gt;
 </description>
 	</item>
 	
