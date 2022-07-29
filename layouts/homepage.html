@@ -1,5 +1,5 @@
 {{ partial "header.html" . -}}
-<img id="profilePic" src="profilePic.png" alt="coinbunker">
-<header><h1>{{ .Title }}</h1></header>
+{{ partial "profilePic.html" }}
+<header><h1 id="siteName">{{ .Title }}</h1></header>
 {{ .Content -}}
 {{ partial "footer.html" . }}

@@ -3,7 +3,9 @@
 :root {
 	--page-background: #262626;
 	--page-text-color: #dfdfdf;
-	--affLink: #B0E0E6;
+	--page-title-color: #D93025;
+	--affLink: #40E0D0;
+	--instaIcon: #DC143C;
 }
 
 body {
@@ -14,12 +16,14 @@ body {
 }
 
 main {
-	max-width: 900px;
+	max-width: 800px;
 	margin: 0 auto;
+	padding: 10px;
 }
 
-p {
-	text-indent: 1.2rem;
+a {
+  text-decoration: none;
+	cursor: pointer;
 }
 
 img {
@@ -33,6 +37,7 @@ header h1 {
 footer {
 	text-align: center ;
 	clear: both ;
+	padding: 20px;
 }
 
 /* For TAGLIST.HTML */
@@ -57,31 +62,53 @@ footer {
 	max-width: 33% ;
 }
 
-#profilePic {
+#siteName {
+	color: var(--page-title-color);
+}
+
+.profilePic {
 	max-width: 128px;
 	border-radius: 100px;
 	margin: auto;
 	display: block;
 }
 
-.book-div {
+.bookDiv {
 	display: flex;
 	flex-direction: column;
+	justify-content: center;
 }
 
-.book-section {
+.bookDivImage {
+	text-align: center;
+}
+
+.generic-section {
 	display: grid;
-	grid-template-columns: auto auto auto;
+	grid-template-columns: repeat( auto-fit, minmax(240px, 1fr) );
 	grid-gap: 30px;
 }
 
-.affiliatedLink {
-	text-align: center;
-  text-decoration: none;
+.contentTitle {
+	font-size: 1.2em;
 	color: var(--affLink);
-	cursor: pointer;
 }
 
-.affiliatedLinkImg {
-	max-width: 240px;
+
+
+.bookImage {
+	width: 240px;
+	height: 320px;
+}
+
+.subtitle {
+	text-align: center;
+}
+
+#instagram {
+	display: block;
+	text-align: center;
+	font-size: 48px;
+	margin: 20px auto;
+	color: var(--instaIcon); 
 }
